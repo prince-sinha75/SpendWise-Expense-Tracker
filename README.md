@@ -1,5 +1,7 @@
 # SpendWise — Premium Personal Finance Dashboard
 
+🚀 **Live Demo:** [https://prince-sinha75.github.io/SpendWise-Expense-Tracker/](https://prince-sinha75.github.io/SpendWise-Expense-Tracker/)
+
 A polished, production-quality expense tracking web application built with React, TypeScript, and a premium dark fintech aesthetic. SpendWise helps you track income and expenses, visualize spending patterns, set budgets, and export your data — all stored locally in your browser.
 
 ## Features
